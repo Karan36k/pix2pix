@@ -1,10 +1,10 @@
 # Implementation of pix2pix 
 
-![alt text](https://github.com/zaidalyafeai/zaidalyafeai.github.io/blob/master/pix2pix/pix2pix.gif)
+![alt text](https://github.com/karan36k/pix2pix/blob/master/pix2pix/pix2pix.gif)
 
 ## Demo 
 
-Check here https://zaidalyafeai.github.io/pix2pix/celeb.html
+Check here https://massivefile.com/pix2pix/cats.html
 
 ## Implementation 
 
@@ -16,7 +16,7 @@ https://github.com/affinelayer/pix2pix-tensorflow
 
 Use `tf_pix2pix.ipynb` notebook for training. You can run it on colab using this link 
 
-https://colab.research.google.com/github/zaidalyafeai/zaidalyafeai.github.io/blob/master/pix2pix/tf_pix2pix.ipynb
+https://colab.research.google.com/github/karan36k/massivefile.com/blob/master/pix2pix/tf_pix2pix.ipynb
 
 Training depends on the dataset. Here you can find many datasets 
 
