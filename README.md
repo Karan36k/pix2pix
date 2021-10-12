@@ -1,10 +1,10 @@
 # Implementation of pix2pix 
 
-![alt text](https://github.com/karan36k/pix2pix/blob/master/pix2pix/pix2pix.gif)
+![alt text](https://github.com/zaidalyafeai/zaidalyafeai.github.io/blob/master/pix2pix/pix2pix.gif)
 
 ## Demo 
 
-Check here https://massivefile.com/pix2pix/cats.html
+Check here https://zaidalyafeai.github.io/pix2pix/celeb.html
 
 ## Implementation 
 
@@ -16,7 +16,7 @@ https://github.com/affinelayer/pix2pix-tensorflow
 
 Use `tf_pix2pix.ipynb` notebook for training. You can run it on colab using this link 
 
-https://colab.research.google.com/github/karan36k/massivefile.com/blob/master/pix2pix/tf_pix2pix.ipynb
+https://colab.research.google.com/github/zaidalyafeai/zaidalyafeai.github.io/blob/master/pix2pix/tf_pix2pix.ipynb
 
 Training depends on the dataset. Here you can find many datasets 
 
@@ -50,3 +50,5 @@ first using the segmentation to extract the cats and replace the background with
 to generate the edges. 
 
 Also, `pokemon.zip` contains 800 images of Pokemons that were optained from https://www.kaggle.com/kvpratama/pokemon-images-dataset. The edges were extracted using canny edge extractor. 
+
+
