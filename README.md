@@ -4,7 +4,7 @@
 ## It is made in consideration on the tensorflow implementation, please find the following link below:
 https://github.com/affinelayer/pix2pix-tensorflow
 
-     <h4>&nbsp &nbsp &nbsp &nbsp <u>Dataset used for the training</h4></u>
+     <h4> <u> Information about Dataset used for the training</h4></u>
          
          Scenery - </b> traning epochs - 200, training images - 2950, batch size - 1, inverse order- True
 
@@ -26,7 +26,7 @@ https://github.com/affinelayer/pix2pix-tensorflow
 <br>
      <hr>
   
-   # Dataset Used:
+   # Dataset Used download links:
   The cats dataset link
   
   http://www.robots.ox.ac.uk/~vgg/data/pets/
@@ -35,7 +35,7 @@ https://github.com/affinelayer/pix2pix-tensorflow
    https://www.kaggle.com/kvpratama/pokemon-images-dataset
 
   
-# You will need to convert the model to tansorflow.js, please refer to the steps mentioned in official website for the same.
+# You will need to convert the model to tansorflow.js, please refer to the steps mentioned in official tensorflow website for the same.
   https://www.tensorflow.org/js/tutorials/conversion/import_keras
 
 
