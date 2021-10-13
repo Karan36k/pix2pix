@@ -1,6 +1,6 @@
 # Implementation of pix2pix 
 
-![alt text](https://github.com/Karan36k/pix2pix/blob/main/pix2pix.gif)
+![alt text](https://github.com/Karan36k/pix2pix/blob/main/pix2pix.mp4)
 
 ## Demo 
 
