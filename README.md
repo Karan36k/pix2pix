@@ -16,7 +16,7 @@ https://github.com/affinelayer/pix2pix-tensorflow
 
 Use `tf_pix2pix.ipynb` notebook for training. You can run it on colab using this link 
 
-https://colab.research.google.com/github/zaidalyafeai/zaidalyafeai.github.io/blob/master/pix2pix/tf_pix2pix.ipynb
+https://colab.research.google.com/github/karan36k/pix2pix/blob/master/tf_pix2pix.ipynb
 
 Training depends on the dataset. Here you can find many datasets 
 
