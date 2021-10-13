@@ -7,25 +7,25 @@ https://github.com/affinelayer/pix2pix-tensorflow
   <html>
     <body>
   <div>     <h4>&nbsp &nbsp &nbsp &nbsp <u>Dataset used for the training</h4></u>
-         <ul>
-          <li><b> Scenery - </b> traning epochs - 200, training images - 2950, batch size - 1, inverse order- True</li>
+         
+         Scenery - </b> traning epochs - 200, training images - 2950, batch size - 1, inverse order- True
 
-          <li><b> Buildings - </b> training epochs - 200, training images - 425, batch size - 1, inverse order- True</li>
+         <b> Buildings - </b> training epochs - 200, training images - 425, batch size - 1, inverse order- True
 
-          <li><b> Faces - </b> training epochs - 200, training images - 2050, batch size - 1, inverse order- True</li>
+         <b> Faces - </b> training epochs - 200, training images - 2050, batch size - 1, inverse order- True
 
-          <li><b> Cats - </b> training epochs - 15, training images - 51000, batch size - 4, inverse order- False</li>
+          <b> Cats - </b> training epochs - 15, training images - 51000, batch size - 4, inverse order- False>
 
-          <li><b> Pokemon - </b> training epochs - 15, training images - 139000, batch size - 4, inverse order- False</li>
-</ul><br>
+          <b> Pokemon - </b> training epochs - 15, training images - 139000, batch size - 4, inverse order- False
+<br>
          <h4>&nbsp &nbsp &nbsp &nbsp <u>Learning time of different models</h4></u>
          <ul>
-          <li><b> Scenery - </b>Average time per epoch - 318.77 sec; Total epochs time: 63,754.00 sec</li>
+          <b> Scenery - </b>Average time per epoch - 318.77 sec; Total epochs time: 63,754.00 sec
 
-          <li><b> Buildings - </b> Average time per epoch - 44.94 sec; Total epochs time: 9282.64.00 sec</li>
+          <b> Buildings - </b> Average time per epoch - 44.94 sec; Total epochs time: 9282.64.00 sec
 
-          <li><b> Faces - </b> Average time per epoch - 10200.77 sec; Total epochs time: 204,0000.00 sec sec</li>
-</ul><br>
+          <b> Faces - </b> Average time per epoch - 10200.77 sec; Total epochs time: 204,0000.00 sec sec
+<br>
       </div></body></html>
    # The cats dataset link:
   http://www.robots.ox.ac.uk/~vgg/data/pets/
