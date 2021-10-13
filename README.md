@@ -1,8 +1,7 @@
 <center> ## To see the live version of the model please visit https://massivefile.com/pix2pix
 
 # This is how the pix2pix model performs in one slide 
-
-![alt text](https://github.com/Karan36k/pix2pix/blob/main/pix2pix.gif)
+<img src="https://github.com/Karan36k/pix2pix/blob/main/pix2pix.gif">
 
 
 ## Implementation 
