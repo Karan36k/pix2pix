@@ -1,9 +1,6 @@
 <center> 
   # To view a live version of the model please visit https://massivefile.com/pix2pix
 
-## It is made in consideration on the tensorflow implementation, please find the following link below:
-https://github.com/affinelayer/pix2pix-tensorflow
-
     # Information about Dataset used for the training
          
          Scenery - traning epochs - 200, training images - 2950, batch size - 1, inverse order- True
@@ -23,8 +20,6 @@ https://github.com/affinelayer/pix2pix-tensorflow
            Buildings - Average time per epoch - 44.94 sec; Total epochs time: 9282.64.00 sec
 
            Faces - Average time per epoch - 10200.77 sec; Total epochs time: 204,0000.00 sec sec
-
-     <hr>
   
    # Dataset Used download links:
   The cats dataset link
@@ -38,7 +33,9 @@ https://github.com/affinelayer/pix2pix-tensorflow
 # You will need to convert the model to tansorflow.js, please refer to the steps mentioned in official tensorflow website for the same.
   https://www.tensorflow.org/js/tutorials/conversion/import_keras
 
-
+## It is made in consideration on the tensorflow implementation, please find the following link below:
+https://github.com/affinelayer/pix2pix-tensorflow
+  
 # This is how the pix2pix model performs in one slide 
 <img src="https://github.com/Karan36k/pix2pix/blob/main/pix2pix.gif" style= "border: 10px solid black">
 
