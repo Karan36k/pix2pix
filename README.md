@@ -1,53 +1,25 @@
-<center> ## To see the live version of the model please visit https://massivefile.com/pix2pix
+<center> ## To view a live version of the model please visit https://massivefile.com/pix2pix
 
+It is made in consideration on the tensorflow implementation, please find the following link below:
+https://github.com/affinelayer/pix2pix-tensorflow
+
+  
 # This is how the pix2pix model performs in one slide 
 <img src="https://github.com/Karan36k/pix2pix/blob/main/pix2pix.gif" style= "border: 10px solid black">
 
-
-## Implementation 
-
-Based on the Tensorflow implementation 
-
-https://github.com/affinelayer/pix2pix-tensorflow
-
-## Training 
-
-Use `tf_pix2pix.ipynb` notebook for training. You can run it on colab using this link 
-
-https://colab.research.google.com/github/karan36k/pix2pix/blob/master/tf_pix2pix.ipynb
-
-Training depends on the dataset. Here you can find many datasets 
-
+# What dataset is used in the program- Please find the berkley dataset link attached below.
 https://people.eecs.berkeley.edu/~tinghuiz/projects/pix2pix/datasets/
+  
+  # The cats dataset link:
+  http://www.robots.ox.ac.uk/~vgg/data/pets/
+  
+  # Pokemon dataset link
+   https://www.kaggle.com/kvpratama/pokemon-images-dataset
 
-Make sure to choose the correct direction `AtoB` or `BtoA` depending on the dataset. 
+  
+## You will need to convert the model to tansorflow.js, please refer to the steps mentioned in official website for the same.
+  https://www.tensorflow.org/js/tutorials/conversion/import_keras
 
-## Convert the model to TensorFlow.js 
-
-1. First export the model by changing the `mode` to `export`. This will create export files. 
-2. use the `convert_keras.py` script to convert the model to keras 
-`python convert_keras.py --dir input_dir --out output_dir`
-3. Install tensorflowjs package using 
-`pip install tensorflowjs`
-4. Convert the model  
-
-`tensorflowjs_converter --input_format keras keras.h5 output_directory`
-
-## Train on your dataset 
-
-Use these scripts 
-
-https://github.com/zaidalyafeai/pix2pix/tree/master/scripts/edges
-
-The process first uses a caffe model to create mat files. Then you can use matlab to generate edges. If you faced some difficulties with that you can use `cv2.canny` to extract the edge map of the input iamges. 
-
-## Processed Dataset 
-
-Check `cats.zip` which contains 1000 images of cats. It was obtained from http://www.robots.ox.ac.uk/~vgg/data/pets/ by 
-first using the segmentation to extract the cats and replace the background with white. Then the previous step was used 
-to generate the edges. 
-
-Also, `pokemon.zip` contains 800 images of Pokemons that were optained from https://www.kaggle.com/kvpratama/pokemon-images-dataset. The edges were extracted using canny edge extractor. 
 
 
 </center>
