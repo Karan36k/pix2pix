@@ -1,7 +1,7 @@
 <center> 
   <h1> To view a live version of the model please visit https://massivefile.com/pix2pix </h1>
 
-    <h4> Information about Dataset used for the training
+  <b> Information about Dataset used for the training </b>
          
          Scenery - traning epochs - 200, training images - 2950, batch size - 1, inverse order- True
 
@@ -13,13 +13,13 @@
 
           Pokemon - training epochs - 15, training images - 139000, batch size - 4, inverse order- False
 
-        Learning time of different models
+  <b> Learning time of different models </b>
        
            Scenery - Average time per epoch - 318.77 sec; Total epochs time: 63,754.00 sec
 
            Buildings - Average time per epoch - 44.94 sec; Total epochs time: 9282.64.00 sec
 
-           Faces - Average time per epoch - 10200.77 sec; Total epochs time: 204,0000.00 sec sec </h4>
+           Faces - Average time per epoch - 10200.77 sec; Total epochs time: 204,0000.00 sec sec 
   
    # Dataset Used download links:
   The cats dataset link
