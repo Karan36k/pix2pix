@@ -4,7 +4,7 @@
 
 ## Demo 
 
-Check here https://zaidalyafeai.github.io/pix2pix/celeb.html
+Check here https://massivefile.com/pix2pix
 
 ## Implementation 
 
