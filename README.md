@@ -27,14 +27,17 @@ https://github.com/affinelayer/pix2pix-tensorflow
           <b> Faces - </b> Average time per epoch - 10200.77 sec; Total epochs time: 204,0000.00 sec sec
 <br>
       </div></body></html>
-   # The cats dataset link:
+  
+   # Dataset Used:
+  The cats dataset link
+  
   http://www.robots.ox.ac.uk/~vgg/data/pets/
   
-  # Pokemon dataset link
+   Pokemon dataset link
    https://www.kaggle.com/kvpratama/pokemon-images-dataset
 
   
-## You will need to convert the model to tansorflow.js, please refer to the steps mentioned in official website for the same.
+# You will need to convert the model to tansorflow.js, please refer to the steps mentioned in official website for the same.
   https://www.tensorflow.org/js/tutorials/conversion/import_keras
 
 
