@@ -1,5 +1,5 @@
 <center> 
-  # To view a live version of the model please visit https://massivefile.com/pix2pix
+  <h2> To view a live version of the model please visit https://massivefile.com/pix2pix </h2>
 
     # Information about Dataset used for the training
          
