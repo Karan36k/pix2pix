@@ -4,6 +4,8 @@
 ## It is made in consideration on the tensorflow implementation, please find the following link below:
 https://github.com/affinelayer/pix2pix-tensorflow
 
+  <html>
+    <body>
   <div>     <h4>&nbsp &nbsp &nbsp &nbsp <u>Dataset used for the training</h4></u>
          <ul>
           <li><b> Scenery - </b> traning epochs - 200, training images - 2950, batch size - 1, inverse order- True</li>
@@ -24,7 +26,7 @@ https://github.com/affinelayer/pix2pix-tensorflow
 
           <li><b> Faces - </b> Average time per epoch - 10200.77 sec; Total epochs time: 204,0000.00 sec sec</li>
 </ul><br>
-      </div>
+      </div></body></html>
    # The cats dataset link:
   http://www.robots.ox.ac.uk/~vgg/data/pets/
   
