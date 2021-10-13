@@ -4,26 +4,26 @@
 ## It is made in consideration on the tensorflow implementation, please find the following link below:
 https://github.com/affinelayer/pix2pix-tensorflow
 
-     <h4> <u> Information about Dataset used for the training</h4></u>
+    # Information about Dataset used for the training
          
-         Scenery - </b> traning epochs - 200, training images - 2950, batch size - 1, inverse order- True
+         Scenery - traning epochs - 200, training images - 2950, batch size - 1, inverse order- True
 
-         <b> Buildings - </b> training epochs - 200, training images - 425, batch size - 1, inverse order- True
+          Buildings -training epochs - 200, training images - 425, batch size - 1, inverse order- True
 
-         <b> Faces - </b> training epochs - 200, training images - 2050, batch size - 1, inverse order- True
+         Faces -  training epochs - 200, training images - 2050, batch size - 1, inverse order- True
 
-          <b> Cats - </b> training epochs - 15, training images - 51000, batch size - 4, inverse order- False>
+          Cats -  training epochs - 15, training images - 51000, batch size - 4, inverse order- False>
 
-          <b> Pokemon - </b> training epochs - 15, training images - 139000, batch size - 4, inverse order- False
-<br>
-         <h4>&nbsp &nbsp &nbsp &nbsp <u>Learning time of different models</h4></u>
-         <ul>
-          <b> Scenery - </b>Average time per epoch - 318.77 sec; Total epochs time: 63,754.00 sec
+          Pokemon - training epochs - 15, training images - 139000, batch size - 4, inverse order- False
 
-          <b> Buildings - </b> Average time per epoch - 44.94 sec; Total epochs time: 9282.64.00 sec
+       ## Learning time of different models
+       
+           Scenery - Average time per epoch - 318.77 sec; Total epochs time: 63,754.00 sec
 
-          <b> Faces - </b> Average time per epoch - 10200.77 sec; Total epochs time: 204,0000.00 sec sec
-<br>
+           Buildings - Average time per epoch - 44.94 sec; Total epochs time: 9282.64.00 sec
+
+           Faces - Average time per epoch - 10200.77 sec; Total epochs time: 204,0000.00 sec sec
+
      <hr>
   
    # Dataset Used download links:
